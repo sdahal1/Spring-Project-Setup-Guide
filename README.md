@@ -26,8 +26,8 @@ Select/Search for the following packages:
 
 Last, click ` Finish `
 
-![Spring Tool Starter Project set-up dependencies](https://github.com/kcwebers/SpringStarterProjectSetUp/blob/main/screencaps/dependencies_1_web.PNG "Spring Tool Starter Project set-up dependencies")
-![Spring Tool Starter Project set-up dependencies](https://github.com/kcwebers/SpringStarterProjectSetUp/blob/main/screencaps/dependencies_2_dev.PNG "Spring Tool Starter Project set-up dependencies")
+![Spring Tool Starter Project set-up dependencies](https://github.com/sdahal1/Spring-Project-Setup-Guide/blob/main/screencaps/dependencies_1_web.png "Spring Tool Starter Project set-up dependencies")
+![Spring Tool Starter Project set-up dependencies](https://github.com/sdahal1/Spring-Project-Setup-Guide/blob/main/screencaps/dependencies_2_dev.png "Spring Tool Starter Project set-up dependencies")
 
 
 ### If you select these options often, they may appear above in the `Frequently Used` section!
