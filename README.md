@@ -112,6 +112,9 @@ Next add this line to the `src/main/resources/application.properties` file
 ```
 spring.mvc.view.prefix=/WEB-INF/
 
+
+#These lines below are only if you're yousing database and are on the full stack assignments!!! Do not use the lines below if you're not on the full stack assignments
+
 spring.datasource.url=jdbc:mysql://localhost:3306/<<YOUR_SCHEMA>>?&serverTimezone=UTC
 spring.datasource.username=<<YOUR_USERNAME>>
 spring.datasource.password=<<YOUR_PASSWORD>>
