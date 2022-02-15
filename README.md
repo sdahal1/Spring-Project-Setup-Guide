@@ -132,7 +132,7 @@ Don't forget to create a schema for your project in MySQL! you can do so by acce
 
 ![Adding schema to MySQL to connect to project](https://github.com/kcwebers/SpringStarterProjectSetUp/blob/main/screencaps/createschema.PNG "Adding schema to MySQL to connect to project")
 
-### Step 4 - Adding Settings to `application.properties` and connecting to MySQL
+### Step 4 - Create folder for the JSP files and set up a jsp template
 
 Create the folder `src/main/webapp/WEB-INF`. This is where you will store your `.jsp` files! For example:
 
